@@ -14,15 +14,15 @@ const Notes = () => {
       </p>
       <p>
         If you visit the website directly with search params, for example,{" "}
-        <a href="https://remix-v2-livid.vercel.app?q=hello">
-          https://remix-v2-livid.vercel.app?q=hello
+        <a href="https://next14-url-data.vercel.app/?q=hello">
+          https://next14-url-data.vercel.app/?q=hello
         </a>
         , the fake result will be streamed from the server. While waiting for
         data, the text &quot;Searching ...&quot; will be shown.
       </p>
       <p>
         <a
-          href="https://github.com/nicnocquee/remix-v2"
+          href="https://github.com/nicnocquee/next14-url-data"
           target="_blank"
           rel="noreferrer"
         >
